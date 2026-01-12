@@ -212,3 +212,4 @@ __marimo__/
 data/ 
 embeddings_g2v.csv
 ./graph_features.csv
+test/
