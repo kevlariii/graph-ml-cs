@@ -209,7 +209,6 @@ __marimo__/
 
 
 # data 
-data/ 
 embeddings_g2v.csv
 ./graph_features.csv
 test/
